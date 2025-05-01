@@ -1,3 +1,4 @@
+
 # Retenta ler um CSV se falhar download
 def ler_csv(*args, **kwargs):
   max_tentativas = 5
